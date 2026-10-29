@@ -1,0 +1,11 @@
+# Flutter/Dart specific
+.dart_tool/
+build/
+
+# IDE specific
+.idea/
+*.iml
+
+# OS specific
+.DS_Store
+Thumbs.db
